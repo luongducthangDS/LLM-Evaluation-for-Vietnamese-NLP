@@ -1,0 +1,10 @@
+torch>=2.0
+transformers>=4.35
+datasets>=2.14
+peft>=0.7
+accelerate>=0.24
+sentencepiece>=0.1.99
+evaluate>=0.4
+sacrebleu>=2.3
+numpy>=1.23
+tqdm>=4.65
